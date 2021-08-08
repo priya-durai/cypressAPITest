@@ -1,0 +1,15 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "This is to learn API testing with Cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "author": "Priya Durai",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
